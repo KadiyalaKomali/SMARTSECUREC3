@@ -221,19 +221,6 @@ docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
 4. Add tests
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support and questions:
-- Email: support@smartsecurec3.com
-- Documentation: https://docs.smartsecurec3.com
-- Issues: GitHub Issues
-
-## Changelog
-
 ### Version 1.0.0
 - Initial release
 - Core surveillance features
